@@ -1,4 +1,5 @@
  # Hey there 😆
+ Typing Bunny is a simple Cute Typing Software That help you to type fast and accurately 
 
 # Typing-bunny
 # author: raghav rajput
